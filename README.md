@@ -10,9 +10,8 @@
 </p>
 
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBasefilespython%2Fpydiscbot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FBasefilespython%2Fpydiscbot?ref=badge_large)
 
-
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBSNIKYT%2FDownload-all-images-VK.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FBSNIKYT%2FDownload-all-images-VK?ref=badge_large)
 
 
 ## 🚀 Установка
